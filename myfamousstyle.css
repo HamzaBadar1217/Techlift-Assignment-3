@@ -115,7 +115,7 @@ input {
 
 .feature {
   border: 2px solid rgb(235, 234, 234);
-  width: 40%;
+  width: 48%;
   height: 200px;
   display: flex;
   justify-content: space-between;
@@ -129,7 +129,7 @@ input {
 }
 
 .feature-body {
-  margin: -7px 10px 0 15px;
+  margin: 12px 10px 0 15px;
   color: rgb(51, 51, 51);
 }
 
@@ -139,7 +139,7 @@ input {
 }
 
 .feature-footer {
-  margin-bottom: 50px;
+  margin-top: 35px;
   display: flex;
 }
 
